@@ -1,0 +1,9 @@
+.vscode/**
+.vscode-test/**
+node_modules/**
+scripts/**
+images/icon.svg
+.gitignore
+.eslintrc*
+**/*.test.js
+**/*.spec.js

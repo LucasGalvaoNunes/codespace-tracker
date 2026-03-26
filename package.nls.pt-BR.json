@@ -1,0 +1,12 @@
+{
+  "command.openDashboard.title": "Codespace Tracker: Abrir Dashboard",
+  "command.resetToday.title": "Codespace Tracker: Resetar tempo de hoje",
+  "config.hoursPerDay.description": "Horas planejadas de uso por dia",
+  "config.daysPerWeek.description": "Dias de trabalho por semana",
+  "config.machineType.description": "Tipo de máquina do Codespace",
+  "config.storageGB.description": "Storage estimado usado em GB",
+  "config.plan.description": "Seu plano do GitHub",
+  "config.plan.free": "Free — 120 hs core/mês grátis",
+  "config.plan.pro": "Pro — 180 hs core/mês grátis",
+  "config.alertThresholdPercent.description": "Percentual de uso para disparar o primeiro alerta (ex: 80 = avisar ao atingir 80% do limite)"
+}
