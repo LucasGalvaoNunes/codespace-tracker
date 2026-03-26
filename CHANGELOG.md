@@ -1,23 +1,29 @@
 # Changelog
 
-Todas as mudanças notáveis neste projeto são documentadas aqui.
+All notable changes to this project are documented here.
+
+## [1.0.1] — 2026-03-25
+
+### Added
+
+- Multi-language support: English and Portuguese (BR), auto-detected from VS Code language settings
 
 ## [1.0.0] — 2026-03-25
 
-### Lançamento inicial
+### Initial release
 
-- Timer automático de uso do GitHub Codespaces (detecta `CODESPACE_NAME` / `GITHUB_CODESPACE_TOKEN`)
-- Barra de status com tempo de hoje, horas core do mês e percentual de uso
-- Dashboard completo com métricas de sessão, dia e mês
-- Barras de progresso para uso diário e mensal
-- Custo estimado do mês em tempo real (compute extra + storage)
-- Alertas automáticos ao atingir 80% (configurável), 90% e 100% do limite
-  - Popup de notificação
-  - Banner no topo do dashboard
-  - Abertura automática do dashboard
-- Aviso de projeção de custo nas configurações (baseado em horas/dia × dias/semana)
-- Suporte aos planos Free (120 hs core) e Pro (180 hs core)
-- Reset automático no início de cada mês
-- Ferramentas de desenvolvedor para simular alertas e cenários de uso
-- CSP (Content Security Policy) completo no webview
-- Estrutura multi-arquivo profissional
+- Automatic usage timer for GitHub Codespaces (detects `CODESPACE_NAME` / `GITHUB_CODESPACE_TOKEN`)
+- Status bar with today's time, monthly core hours and usage percentage
+- Full dashboard with session, daily and monthly metrics
+- Progress bars for daily and monthly usage
+- Real-time estimated monthly cost (extra compute + storage)
+- Automatic alerts at 80% (configurable), 90% and 100% of the limit
+  - Notification popup
+  - Banner at the top of the dashboard
+  - Automatic dashboard open
+- Cost projection warning in settings (based on hours/day × days/week)
+- Support for Free (120 core hours) and Pro (180 core hours) plans
+- Automatic reset at the start of each month
+- Developer tools to simulate alerts and usage scenarios
+- Full CSP (Content Security Policy) in the webview
+- Professional multi-file architecture
