@@ -2,7 +2,7 @@
   "name": "codespace-tracker",
   "displayName": "Codespace Tracker",
   "description": "Monitor your GitHub Codespaces usage in real time. Never get surprised by an unexpected bill again.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "lucasgnunes",
   "license": "MIT",
   "icon": "images/icon.png",
@@ -31,12 +31,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lucasgnunes/codespace-tracker"
+    "url": "https://github.com/LucasGalvaoNunes/codespace-tracker"
   },
   "bugs": {
-    "url": "https://github.com/lucasgnunes/codespace-tracker/issues"
+    "url": "https://github.com/LucasGalvaoNunes/codespace-tracker/issues"
   },
-  "homepage": "https://github.com/lucasgnunes/codespace-tracker#readme",
+  "homepage": "https://github.com/LucasGalvaoNunes/codespace-tracker#readme",
   "activationEvents": [
     "onStartupFinished"
   ],
