@@ -2,7 +2,7 @@
   "name": "codespace-tracker",
   "displayName": "Codespace Tracker",
   "description": "Monitor your GitHub Codespaces usage in real time. Never get surprised by an unexpected bill again.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "lucasgnunes",
   "license": "MIT",
   "icon": "images/icon.png",
